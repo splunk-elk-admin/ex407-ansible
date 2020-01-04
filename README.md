@@ -1,5 +1,5 @@
 4. Implementing Task Control 
- \- Writing loops and conditional tasks 
+ '- Writing loops and conditional tasks '
    - loop keyword
    - the loop variable 'item' holds the value during each iteration 
 ================================
